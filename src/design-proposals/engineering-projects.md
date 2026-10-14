@@ -21,9 +21,12 @@ Currently Engineering tasks fall into a three main categories:
 2. Repairs from meteors, explosions et cetera.
 3. Individual projects (e.g. making ploux, LOX, more fancy reactor/SM).
 
-Most of an engineer's round will either fall into the third category.
+Most of an engineer's round will fall into the third category.
 This typically leads to Station Engineer being a very low interaction role.
 
+In my experience their are two times where engineering really shines as an department to play in:
+- When teaching new people: The setup of an engine or other contraption is generally taken much slower and will be much more RP focused.
+- When the Chief Engineer or otherwise proposes a project that the department works collaboratively on. 
 
 ## III. Intent
 
